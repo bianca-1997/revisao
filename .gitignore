@@ -1,0 +1,8 @@
+.vscode 
+
+__psycache__ 
+
+.Python 
+.mypy_cache/
+.db.sqlite3 
+myenv/ 
